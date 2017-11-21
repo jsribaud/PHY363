@@ -11,3 +11,8 @@ python plotting examples: https://python-graph-gallery.com
 GitHub Tutorials: https://www.atlassian.com/git/tutorials/saving-changes
 
 curve_fit information: https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
+
+
+REU Information: https://www.nsf.gov/crssprgm/reu/reu_search.jsp
+
+Internship/REU Listings: https://jobs.physicstoday.org/jobseekers/internships/
