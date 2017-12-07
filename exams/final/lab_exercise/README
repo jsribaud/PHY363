@@ -1,4 +1,4 @@
-The data file provided in this directory has distance and velocity estimates for various nearby galaxies. This is data similar to what Edwin Hubble analyzed to determine the universe is expanding. 
+The data file provided in this directory has distance and velocity estimates for various nearby galaxies. This is data similar to what Edwin Hubble analyzed to determine the universe is expanding. To start your activity, make a copy of the copy_me notebook, renaming it as such: jsr_lab_final.ipynb, where 'jsr' should be replaced by your own initials. Use your newly created notebook to complete the tasks below.
 
 Use the data to re-create the Hubble Law plot (velocity vs. distance) and determine the Hubble constant. Hubble's Law is v = H_0 d, where H_0 is the Hubble constant. In the data file, the distance is provided in Mpc (mega parsecs) and the velocity is provided in km/s.
 
