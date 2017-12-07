@@ -1,21 +1,22 @@
-# Original Hubble Data to be used for lab final exercise
-Distance (Mpc)	Velocity (km/s)
-15		1100
-97		6700
-32		2400
-145		10700
-50		3100
-122		9900
-58		4300
-91		5300
-120		9000
-93		7500
-158		8900
-64		5300
-145		9600
-61		3300
-103		5100
-46		3600
-34		1800
-185		9500
-20		1200
+#Original Hubble Data to be used for lab final exercise
+#Column 1 - Distance to galaxy [Mpc], Column 2 - Velocity of galaxy [km/s]
+Dist, Vel
+15, 1100
+97, 6700
+32, 2400
+145, 10700
+50, 3100
+122, 9900
+58, 4300
+91, 5300
+120, 9000
+93, 7500
+158, 8900
+64, 5300
+145, 9600
+61, 3300
+103, 5100
+46, 3600
+34, 1800
+185, 9500
+20, 1200
